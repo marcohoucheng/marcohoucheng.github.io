@@ -1,9 +1,12 @@
 <p align="right">
-  <a>
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=gmail,linkedin,github"
-      style="width: 110px; height: auto;"
-    />
+  <a href="mailto:marcohoucheng@gmail.com">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&size=40" />
+  </a>
+  <a href="https://www.linkedin.com/in/marcohoucheng">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&size=40" />
+  </a>
+  <a href="https://github.com/marcohoucheng">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=github&size=40" />
   </a>
 </p>
 
