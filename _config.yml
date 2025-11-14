@@ -1,2 +1,6 @@
 name: Marco's Homepage
 title: null
+
+markdown: kramdown
+kramdown:
+  input: Kramdown
