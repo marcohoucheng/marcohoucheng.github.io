@@ -1,22 +1,22 @@
-<h1 align="center">Hi, I'm Marco Lam 👋</h1>
-<h3 align="center">Machine Learning Engineer · MSc Computer Science, University of Padua</h3>
-
-<p align="center">
+<p align="right">
   <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/marcohoucheng/marcohoucheng/main/resume/resume.pdf" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/📄_Resume-2a2a2a?style=for-the-badge" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-2a2a2a?style=flat&logo=readthedocs&logoColor=white" alt="Resume" />
   </a>
   <a href="mailto:marcohoucheng@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/marcohoucheng" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/marcohoucheng" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
----
+<h1 align="center">Hi, I'm Marco Lam 👋</h1>
+<h3 align="center">Machine Learning Engineer · MSc Computer Science, University of Padua</h3>
+
+<br/>
 
 ### About Me
 
